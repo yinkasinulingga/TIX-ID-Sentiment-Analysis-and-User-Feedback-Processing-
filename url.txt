@@ -1,0 +1,5 @@
+Link Dataset : https://www.kaggle.com/code/devraai/tix-id-app-review-sentiment-and-eda#Sentiment-Analysis
+
+Link Model : https://drive.google.com/file/d/1fZ0w0ED6SfgGNogdM9MD7exm_r1p5-iY/view?usp=sharing
+
+Link Deployment : https://huggingface.co/spaces/yinkasinulingga/Sentiment-Analysis-App
